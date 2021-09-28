@@ -4,4 +4,4 @@ TinDog allows the user to find other dogs & their owners nearby in the swipe lef
 ## Deployment
 #### Deployment Link : [https://harshitjain2110.github.io/Tindog-Bootstrap/](https://harshitjain2110.github.io/Tindog-Bootstrap/)
 
-<img src="Images/Tindog-Bootstrap ss.png" alt="website ss">
+<img src="images/Tindog-Bootstrap ss.png" alt="website ss">
